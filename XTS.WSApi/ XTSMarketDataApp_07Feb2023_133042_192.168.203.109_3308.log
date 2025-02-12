@@ -1,0 +1,228 @@
+#Copyright © 2017 - 2020 Symphony.All rights reserved.
+Date                		: 07:Feb:2023 13:30:42.665[dd: MMM: yyyy HH: mm: ss.SSS]
+OS                  		: Linux 5.4 x64
+Node Version        		: v12.18.1
+Time Zone           		: Indian Standard Time
+DateTime Format     		: LocalTime
+Product Name        		: XTSMarketDataApp
+Product Version     		: 4.0.20: Patch No : 0
+------------------------------------------------------------------------------------------------
+07:Feb:2023 13:30:42.705 info           Logger module initialized successfully!
+07:Feb:2023 13:30:43.486 info           Application listening on 192.168.203.109:3308
+07:Feb:2023 13:30:43.488 info           Global level redis server connnected at 192.168.203.109:6381
+07:Feb:2023 13:30:43.492 info           subscribe module redis server for sub connnected for first time at 192.168.203.109:6381
+07:Feb:2023 13:30:43.500 warning        Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+07:Feb:2023 13:30:43.503 info           Scanner redis server connnected at 192.168.203.109:6384
+07:Feb:2023 13:30:43.513 info           scanner redis server for sub connnected for first time at 192.168.203.109:6384
+07:Feb:2023 13:30:43.515 info           NSECM multicast receiver connected at 231.31.203.102:20001 & InterfaceIP is 192.168.203.109 with buffer size 20971520
+07:Feb:2023 13:30:43.515 info           NSEFO multicast receiver connected at 231.31.203.102:20002 & InterfaceIP is 192.168.203.109 with buffer size 20971520
+07:Feb:2023 13:30:43.515 info           NSECD multicast receiver connected at 231.31.203.102:20003 & InterfaceIP is 192.168.203.109 with buffer size 20971520
+07:Feb:2023 13:30:43.516 info           NSECO multicast receiver connected at 231.31.203.102:20004 & InterfaceIP is 192.168.203.109 with buffer size 20971520
+07:Feb:2023 13:30:43.516 info           BSECM multicast receiver connected at 231.31.203.102:20101 & InterfaceIP is 192.168.203.109 with buffer size 20971520
+07:Feb:2023 13:30:43.516 info           BSEFO multicast receiver connected at 231.31.203.102:20102 & InterfaceIP is 192.168.203.109 with buffer size 20971520
+07:Feb:2023 13:30:43.516 info           MCXFO multicast receiver connected at 231.31.203.102:20301 & InterfaceIP is 192.168.203.109 with buffer size 20971520
+07:Feb:2023 13:30:43.516 info           BSECD multicast receiver connected at 231.31.31.4:20103 & InterfaceIP is 192.168.203.109 with buffer size 20971520
+07:Feb:2023 13:30:43.516 info           SLBM multicast receiver connected at 231.31.31.5:20005 & InterfaceIP is 192.168.203.109 with buffer size 20971520
+07:Feb:2023 13:30:43.517 info           NCDEX multicast receiver connected at 231.31.203.102:20201 & InterfaceIP is 192.168.203.109 with buffer size 20971520
+07:Feb:2023 13:30:43.518 info           Mongodb server connected at mongodb://192.168.203.101:27018/VendorDashBoardDB
+07:Feb:2023 13:30:43.522 warning        Listening to events on the Db class has been deprecated and will be removed in the next major version.
+07:Feb:2023 13:30:43.543 info           news redis server connnected for first time at 192.168.203.109:6381
+07:Feb:2023 13:30:45.278 info           PERSIST.JSON.INSTRUMENT.NSECM.EQUITY instruments loaded successfully!.
+07:Feb:2023 13:30:45.336 info           PERSIST.JSON.INSTRUMENT.NSEFO.SPREAD instruments loaded successfully!.
+07:Feb:2023 13:30:57.057 info           PERSIST.JSON.INSTRUMENT.NSEFO.OPTIONS instruments loaded successfully!.
+07:Feb:2023 13:30:57.147 info           PERSIST.JSON.INSTRUMENT.NSEFO.FUTURES instruments loaded successfully!.
+07:Feb:2023 13:30:57.163 info           PERSIST.JSON.INSTRUMENT.NSECD.SPREAD instruments loaded successfully!.
+07:Feb:2023 13:30:57.185 info           PERSIST.JSON.INSTRUMENT.NSECD.FUTURES instruments loaded successfully!.
+07:Feb:2023 13:30:58.579 info           PERSIST.JSON.INSTRUMENT.NSECD.OPTIONS instruments loaded successfully!.
+07:Feb:2023 13:30:58.586 info           PERSIST.JSON.INSTRUMENT.NSECD.SPOT instruments loaded successfully!.
+07:Feb:2023 13:30:58.589 info           PERSIST.JSON.INSTRUMENT.NSECO.FUTURES instruments loaded successfully!.
+07:Feb:2023 13:30:58.590 info           PERSIST.JSON.INSTRUMENT.NSECO.SPOT instruments loaded successfully!.
+07:Feb:2023 13:31:00.682 info           PERSIST.JSON.INSTRUMENT.BSECM.EQUITY instruments loaded successfully!.
+07:Feb:2023 13:31:00.912 info           PERSIST.JSON.INSTRUMENT.BSEFO.FUTURES instruments loaded successfully!.
+07:Feb:2023 13:31:02.111 info           {"path":"/auth/login","method":"POST","body":{"appKey":"823b7084c6dba1fcb56101202","secretKey":"Bqpe403#DB"}}
+07:Feb:2023 13:31:02.177 warning        crypto.createCipher is deprecated.
+07:Feb:2023 13:31:02.190 error          {"type":"error","code":"e-socket-0001","description":"Not a socket UserId"}
+07:Feb:2023 13:31:02.191 info           User login successfully wtih AppKey 823b7084c6dba1fcb56101202 and IP 103.69.170.6
+07:Feb:2023 13:31:02.418 info           PERSIST.JSON.INSTRUMENT.BSEFO.SPREAD instruments loaded successfully!.
+07:Feb:2023 13:31:17.029 info           {"path":"/auth/login","method":"POST","body":{"appKey":"823b7084c6dba1fcb56101202","secretKey":"Bqpe403#DB","source":"WEBAPI"}}
+07:Feb:2023 13:31:17.035 error          {"type":"error","code":"e-socket-0001","description":"Not a socket UserId"}
+07:Feb:2023 13:31:17.036 info           User login successfully wtih AppKey 823b7084c6dba1fcb56101202 and IP 103.69.170.6
+07:Feb:2023 13:31:17.376 info           ON202_823B7084C6DBA1FCB56101202 socket joined successfully! SocketId=iWwC506YzxhBmOhzAAAA
+07:Feb:2023 13:31:23.016 info           PERSIST.JSON.INSTRUMENT.BSEFO.OPTIONS instruments loaded successfully!.
+07:Feb:2023 13:31:23.063 info           PERSIST.JSON.INSTRUMENT.MCXFO.SPOT instruments loaded successfully!.
+07:Feb:2023 13:31:23.803 info           PERSIST.JSON.INSTRUMENT.MCXFO.OPTIONS instruments loaded successfully!.
+07:Feb:2023 13:31:23.814 info           PERSIST.JSON.INSTRUMENT.MCXFO.FUTURES instruments loaded successfully!.
+07:Feb:2023 13:31:23.819 info           PERSIST.JSON.INSTRUMENT.MCXFO.SPREAD instruments loaded successfully!.
+07:Feb:2023 13:31:24.381 info           PERSIST.JSON.INSTRUMENT.BSECD.OPTIONS instruments loaded successfully!.
+07:Feb:2023 13:31:24.389 info           PERSIST.JSON.INSTRUMENT.BSECD.FUTURES instruments loaded successfully!.
+07:Feb:2023 13:31:24.422 info           PERSIST.JSON.INSTRUMENT.BSECD.SPREAD instruments loaded successfully!.
+07:Feb:2023 13:31:28.871 info           PERSIST.JSON.INSTRUMENT.SLBM.EQUITY instruments loaded successfully!.
+07:Feb:2023 13:31:29.204 info           PERSIST.JSON.INSTRUMENT.NCDEX.OPTIONS instruments loaded successfully!.
+07:Feb:2023 13:31:29.229 info           PERSIST.JSON.INSTRUMENT.NCDEX.SPREAD instruments loaded successfully!.
+07:Feb:2023 13:31:29.237 info           PERSIST.JSON.INSTRUMENT.NCDEX.FUTURES instruments loaded successfully!.
+07:Feb:2023 13:31:29.238 info           PERSIST.JSON.INSTRUMENT.NCDEX.SPOT instruments loaded successfully!.
+07:Feb:2023 13:31:29.238 info           360129 Instruments loaded successfully!.
+07:Feb:2023 13:32:02.931 info           Candle data event recevied Tue Feb 07 2023 13:32:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:32:02.936 warning        Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+07:Feb:2023 13:32:02.940 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:32:02 GMT+0530 (India Standard Time)_22
+07:Feb:2023 13:32:02.941 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:32:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:32:02.942 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:32:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:33:02.291 info           Candle data event recevied Tue Feb 07 2023 13:33:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:33:02.292 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:33:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:33:02.293 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:33:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:34:02.561 info           Candle data event recevied Tue Feb 07 2023 13:34:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:34:02.565 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:34:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:34:02.565 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:34:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:35:02.895 info           Candle data event recevied Tue Feb 07 2023 13:35:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:35:02.902 error          {"type":"error","code":"e-rds-0001","description":"key not found.","result":null}
+07:Feb:2023 13:35:02.903 error          Candle data event key not found in redis
+07:Feb:2023 13:36:02.180 info           Candle data event recevied Tue Feb 07 2023 13:36:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:36:02.183 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:36:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:36:02.183 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:36:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:37:02.532 info           Candle data event recevied Tue Feb 07 2023 13:37:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:37:02.534 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:37:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:37:02.534 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:37:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:38:02.051 info           Candle data event recevied Tue Feb 07 2023 13:38:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:38:02.055 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:38:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:38:02.056 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:38:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:39:02.397 info           Candle data event recevied Tue Feb 07 2023 13:39:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:39:02.399 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:39:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:39:02.400 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:39:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:40:02.605 info           Candle data event recevied Tue Feb 07 2023 13:40:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:40:02.606 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:40:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:40:02.606 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:40:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:41:02.129 info           Candle data event recevied Tue Feb 07 2023 13:41:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:41:02.131 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:41:02 GMT+0530 (India Standard Time)_22
+07:Feb:2023 13:41:02.132 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:41:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:41:02.132 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:41:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:42:02.380 info           Candle data event recevied Tue Feb 07 2023 13:42:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:42:02.383 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:42:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:42:02.384 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:42:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:43:02.524 info           Candle data event recevied Tue Feb 07 2023 13:43:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:43:02.525 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:43:02 GMT+0530 (India Standard Time)_22
+07:Feb:2023 13:43:02.526 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:43:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:43:02.526 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:43:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:44:02.015 info           Candle data event recevied Tue Feb 07 2023 13:44:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:44:02.016 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:44:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:44:02.016 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:44:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:45:02.410 info           Candle data event recevied Tue Feb 07 2023 13:45:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:45:02.413 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:45:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:45:02.414 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:45:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:46:02.710 info           Candle data event recevied Tue Feb 07 2023 13:46:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:46:02.711 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:46:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:46:02.712 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:46:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:47:02.013 info           Candle data event recevied Tue Feb 07 2023 13:47:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:47:02.015 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:47:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:47:02.016 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:47:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:48:02.501 info           Candle data event recevied Tue Feb 07 2023 13:48:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:48:02.502 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:48:02 GMT+0530 (India Standard Time)_22
+07:Feb:2023 13:48:02.502 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:48:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:48:02.502 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:48:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:49:03.866 info           Candle data event recevied Tue Feb 07 2023 13:49:03 GMT+0530 (India Standard Time)
+07:Feb:2023 13:49:03.869 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:49:03 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:49:03.870 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:49:03 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:50:02.652 info           Candle data event recevied Tue Feb 07 2023 13:50:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:50:02.654 error          {"type":"error","code":"e-rds-0001","description":"key not found.","result":null}
+07:Feb:2023 13:50:02.654 error          Candle data event key not found in redis
+07:Feb:2023 13:51:02.969 info           Candle data event recevied Tue Feb 07 2023 13:51:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:51:02.975 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:51:02 GMT+0530 (India Standard Time)_22
+07:Feb:2023 13:51:02.975 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:51:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:51:02.976 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:51:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:52:02.225 info           Candle data event recevied Tue Feb 07 2023 13:52:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:52:02.227 error          {"type":"error","code":"e-rds-0001","description":"key not found.","result":null}
+07:Feb:2023 13:52:02.227 error          Candle data event key not found in redis
+07:Feb:2023 13:53:02.504 info           Candle data event recevied Tue Feb 07 2023 13:53:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:53:02.505 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:53:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:53:02.506 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:53:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:54:02.860 info           Candle data event recevied Tue Feb 07 2023 13:54:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:54:02.861 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:54:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:54:02.861 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:54:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:55:02.101 info           Candle data event recevied Tue Feb 07 2023 13:55:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:55:02.104 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:55:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:55:02.104 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:55:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:56:02.118 info           Candle data event recevied Tue Feb 07 2023 13:56:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:56:02.119 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:56:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:56:02.120 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:56:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:57:02.420 info           Candle data event recevied Tue Feb 07 2023 13:57:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:57:02.422 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:57:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:57:02.423 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:57:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 13:58:02.705 info           Candle data event recevied Tue Feb 07 2023 13:58:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:58:02.706 error          {"type":"error","code":"e-rds-0001","description":"key not found.","result":null}
+07:Feb:2023 13:58:02.706 error          Candle data event key not found in redis
+07:Feb:2023 13:59:02.226 info           Candle data event recevied Tue Feb 07 2023 13:59:02 GMT+0530 (India Standard Time)
+07:Feb:2023 13:59:02.228 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:59:02 GMT+0530 (India Standard Time)_22
+07:Feb:2023 13:59:02.229 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:59:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 13:59:02.229 info           Preparing Candle data event send to the user Tue Feb 07 2023 13:59:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:00:02.733 info           Candle data event recevied Tue Feb 07 2023 14:00:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:00:02.735 error          {"type":"error","code":"e-rds-0001","description":"key not found.","result":null}
+07:Feb:2023 14:00:02.735 error          Candle data event key not found in redis
+07:Feb:2023 14:01:02.127 info           Candle data event recevied Tue Feb 07 2023 14:01:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:01:02.132 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:01:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:01:02.132 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:01:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:02:04.975 info           Candle data event recevied Tue Feb 07 2023 14:02:04 GMT+0530 (India Standard Time)
+07:Feb:2023 14:02:04.976 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:02:04 GMT+0530 (India Standard Time)_22
+07:Feb:2023 14:02:04.977 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:02:04 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:02:04.977 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:02:04 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:03:02.295 info           Candle data event recevied Tue Feb 07 2023 14:03:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:03:02.310 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:03:02 GMT+0530 (India Standard Time)_22
+07:Feb:2023 14:03:02.315 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:03:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:03:02.316 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:03:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:04:02.703 info           Candle data event recevied Tue Feb 07 2023 14:04:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:04:02.704 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:04:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:04:02.704 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:04:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:05:03.037 info           Candle data event recevied Tue Feb 07 2023 14:05:03 GMT+0530 (India Standard Time)
+07:Feb:2023 14:05:03.038 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:05:03 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:05:03.038 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:05:03 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:06:02.368 info           Candle data event recevied Tue Feb 07 2023 14:06:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:06:02.370 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:06:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:06:02.370 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:06:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:07:02.749 info           Candle data event recevied Tue Feb 07 2023 14:07:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:07:02.752 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:07:02 GMT+0530 (India Standard Time)_22
+07:Feb:2023 14:07:02.752 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:07:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:07:02.762 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:07:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:08:02.052 info           Candle data event recevied Tue Feb 07 2023 14:08:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:08:02.054 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:08:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:08:02.054 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:08:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:09:02.465 info           Candle data event recevied Tue Feb 07 2023 14:09:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:09:02.468 error          {"type":"error","code":"e-rds-0001","description":"key not found.","result":null}
+07:Feb:2023 14:09:02.468 error          Candle data event key not found in redis
+07:Feb:2023 14:10:03.586 info           Candle data event recevied Tue Feb 07 2023 14:10:03 GMT+0530 (India Standard Time)
+07:Feb:2023 14:10:03.587 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:10:03 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:10:03.587 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:10:03 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:11:02.896 info           Candle data event recevied Tue Feb 07 2023 14:11:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:11:02.897 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:11:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:11:02.897 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:11:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:12:02.648 info           Candle data event recevied Tue Feb 07 2023 14:12:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:12:02.648 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:12:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:12:02.649 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:12:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:13:02.105 info           Candle data event recevied Tue Feb 07 2023 14:13:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:13:02.109 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:13:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:13:02.110 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:13:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:14:02.439 info           Candle data event recevied Tue Feb 07 2023 14:14:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:14:02.443 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:14:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:14:02.443 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:14:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:15:02.746 info           Candle data event recevied Tue Feb 07 2023 14:15:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:15:02.748 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:15:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:15:02.749 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:15:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:16:02.117 info           Candle data event recevied Tue Feb 07 2023 14:16:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:16:02.125 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:16:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:16:02.126 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:16:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:17:02.344 info           Candle data event recevied Tue Feb 07 2023 14:17:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:17:02.351 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:17:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:17:02.351 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:17:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:18:02.149 info           Candle data event recevied Tue Feb 07 2023 14:18:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:18:02.150 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:18:02 GMT+0530 (India Standard Time)_22
+07:Feb:2023 14:18:02.151 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:18:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:18:02.151 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:18:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:19:02.168 info           Candle data event recevied Tue Feb 07 2023 14:19:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:19:02.170 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:19:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:19:02.171 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:19:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:20:02.689 info           Candle data event recevied Tue Feb 07 2023 14:20:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:20:02.690 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:20:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:20:02.691 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:20:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:21:02.022 info           Candle data event recevied Tue Feb 07 2023 14:21:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:21:02.024 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:21:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:21:02.024 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:21:02 GMT+0530 (India Standard Time)_11536
+07:Feb:2023 14:22:02.778 info           Candle data event recevied Tue Feb 07 2023 14:22:02 GMT+0530 (India Standard Time)
+07:Feb:2023 14:22:02.779 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:22:02 GMT+0530 (India Standard Time)_2885
+07:Feb:2023 14:22:02.779 info           Preparing Candle data event send to the user Tue Feb 07 2023 14:22:02 GMT+0530 (India Standard Time)_11536

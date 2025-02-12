@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTS.WSApi", "XTS.WSApi.csproj", "{7A38EA17-234F-4C91-9922-50AD6B5BD7D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTS.WebSocket.MarketFeedTest", "..\XTS.WebSocket.MarketFeedTest\XTS.WebSocket.MarketFeedTest.csproj", "{C13B98E9-1416-4DC2-BF83-2E38C53A7339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A38EA17-234F-4C91-9922-50AD6B5BD7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A38EA17-234F-4C91-9922-50AD6B5BD7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A38EA17-234F-4C91-9922-50AD6B5BD7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A38EA17-234F-4C91-9922-50AD6B5BD7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13B98E9-1416-4DC2-BF83-2E38C53A7339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13B98E9-1416-4DC2-BF83-2E38C53A7339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13B98E9-1416-4DC2-BF83-2E38C53A7339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13B98E9-1416-4DC2-BF83-2E38C53A7339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E411710D-0D20-4CC0-B8B1-E660453A0B15}
+	EndGlobalSection
+EndGlobal

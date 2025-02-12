@@ -1,0 +1,136 @@
+19-Oct-2023 04:58:47     Info      Touchline Event Dispatched Thread Initiated.
+19-Oct-2023 04:59:06     Info      Connecting With User 83066938
+19-Oct-2023 04:59:06     Info      Fetching Access Token From URL [https://ttblaze.iifl.com/apibinarymarketdata/auth/login]
+19-Oct-2023 04:59:06     Info      SecretKey:[Qpvq568@hJ] AppKey:[97496c2f62d0a22253f773]
+19-Oct-2023 04:59:06     Info      Token Fetched.
+19-Oct-2023 04:59:06     Info      Current valid token : [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI4MzA2NjkzOF85NzQ5NmMyZjYyZDBhMjIyNTNmNzczIiwicHVibGljS2V5IjoiOTc0OTZjMmY2MmQwYTIyMjUzZjc3MyIsImlhdCI6MTY5NzcxNDk0NywiZXhwIjoxNjk3ODAxMzQ3fQ.FdxUPVh6EAn5f5OISVlC7Llw6-tG2IGT6YkCF8s52pc]
+19-Oct-2023 04:59:06     Info      Connecting Socket.io with token. URL:[https://ttblaze.iifl.com/] Path:[/apibinarymarketdata/socket.io]
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [joined] On callback [XTS.WSApi.<RegisterSocketEvents>b__0].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [connect] On callback [XTS.WSApi.<RegisterSocketEvents>b__1].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [connect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__2].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [connect_timeout] On callback [XTS.WSApi.<RegisterSocketEvents>b__3].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [disconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__4].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [error] On callback [XTS.WSApi.<RegisterSocketEvents>b__5].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [reconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__6].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [reconnect_attempt] On callback [XTS.WSApi.<RegisterSocketEvents>b__7].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [reconnect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__8].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [reconnect_failed] On callback [XTS.WSApi.<RegisterSocketEvents>b__9].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [reconnecting] On callback [XTS.WSApi.<RegisterSocketEvents>b__10].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [socketError] On callback [XTS.WSApi.<RegisterSocketEvents>b__11].
+19-Oct-2023 04:59:06     Warning   SocketIO Subscribing with [xts-binary-packet] On callback [XTS.WSApi.OnNewBinaryPacketMessage].
+19-Oct-2023 04:59:07     Info      Web Socket Event connect [Details : ]
+19-Oct-2023 04:59:07     Info      Web Socket Event  Joined. [Details : {"type":"success","code":"s-socket-0001","description":"Socket joined successfully! SocketId=90dagZxErCxV4roYAAPe"}]
+19-Oct-2023 04:59:11     Info      Connecting With User 83066938
+19-Oct-2023 04:59:11     Info      Fetching Access Token From URL [https://ttblaze.iifl.com/apibinarymarketdata/auth/login]
+19-Oct-2023 04:59:11     Info      SecretKey:[Qpvq568@hJ] AppKey:[97496c2f62d0a22253f773]
+19-Oct-2023 04:59:11     Info      Token Fetched.
+19-Oct-2023 04:59:11     Info      Current valid token : [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI4MzA2NjkzOF85NzQ5NmMyZjYyZDBhMjIyNTNmNzczIiwicHVibGljS2V5IjoiOTc0OTZjMmY2MmQwYTIyMjUzZjc3MyIsImlhdCI6MTY5NzcxNDk1MiwiZXhwIjoxNjk3ODAxMzUyfQ.39LTrwhOHH8uFeQ0U1ItBzLGEYr45ocah-eqltPq55Y]
+19-Oct-2023 04:59:11     Info      Connecting Socket.io with token. URL:[https://ttblaze.iifl.com/] Path:[/apibinarymarketdata/socket.io]
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [joined] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__0]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [joined] On callback [XTS.WSApi.<RegisterSocketEvents>b__0].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [connect] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__1]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [connect] On callback [XTS.WSApi.<RegisterSocketEvents>b__1].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [connect_error] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__2]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [connect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__2].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [connect_timeout] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__3]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [connect_timeout] On callback [XTS.WSApi.<RegisterSocketEvents>b__3].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [disconnect] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__4]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [disconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__4].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [error] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__5]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [error] On callback [XTS.WSApi.<RegisterSocketEvents>b__5].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [reconnect] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__6]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [reconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__6].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [reconnect_attempt] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__7]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [reconnect_attempt] On callback [XTS.WSApi.<RegisterSocketEvents>b__7].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [reconnect_error] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__8]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [reconnect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__8].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [reconnect_failed] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__9]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [reconnect_failed] On callback [XTS.WSApi.<RegisterSocketEvents>b__9].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [reconnecting] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__10]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [reconnecting] On callback [XTS.WSApi.<RegisterSocketEvents>b__10].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [socketError] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__11]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [socketError] On callback [XTS.WSApi.<RegisterSocketEvents>b__11].
+19-Oct-2023 04:59:12     Warning   Supplied SubscriptionKey [xts-binary-packet] is already registered with previous callback [XTS.WSApi.OnNewBinaryPacketMessage]. Un-Registering with the same.
+19-Oct-2023 04:59:12     Warning   SocketIO Subscribing with [xts-binary-packet] On callback [XTS.WSApi.OnNewBinaryPacketMessage].
+19-Oct-2023 04:59:12     Info      Web Socket Event connect [Details : ]
+19-Oct-2023 04:59:12     Info      Web Socket Event  Joined. [Details : {"type":"success","code":"s-socket-0001","description":"Socket joined successfully! SocketId=-FmjTxwh2wEQH49MAAPf"}]
+19-Oct-2023 04:59:14     Info      Connecting With User 83066938
+19-Oct-2023 04:59:14     Info      Fetching Access Token From URL [https://ttblaze.iifl.com/apibinarymarketdata/auth/login]
+19-Oct-2023 04:59:14     Info      SecretKey:[Qpvq568@hJ] AppKey:[97496c2f62d0a22253f773]
+19-Oct-2023 04:59:14     Info      Token Fetched.
+19-Oct-2023 04:59:14     Info      Current valid token : [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI4MzA2NjkzOF85NzQ5NmMyZjYyZDBhMjIyNTNmNzczIiwicHVibGljS2V5IjoiOTc0OTZjMmY2MmQwYTIyMjUzZjc3MyIsImlhdCI6MTY5NzcxNDk1NSwiZXhwIjoxNjk3ODAxMzU1fQ.RYVxr0aMBsYjYy7ssbxyQtJ81wZRpx1pi7P823MhRmU]
+19-Oct-2023 04:59:14     Info      Connecting Socket.io with token. URL:[https://ttblaze.iifl.com/] Path:[/apibinarymarketdata/socket.io]
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [joined] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__0]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [joined] On callback [XTS.WSApi.<RegisterSocketEvents>b__0].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [connect] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__1]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [connect] On callback [XTS.WSApi.<RegisterSocketEvents>b__1].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [connect_error] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__2]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [connect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__2].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [connect_timeout] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__3]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [connect_timeout] On callback [XTS.WSApi.<RegisterSocketEvents>b__3].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [disconnect] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__4]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [disconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__4].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [error] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__5]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [error] On callback [XTS.WSApi.<RegisterSocketEvents>b__5].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [reconnect] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__6]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [reconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__6].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [reconnect_attempt] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__7]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [reconnect_attempt] On callback [XTS.WSApi.<RegisterSocketEvents>b__7].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [reconnect_error] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__8]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [reconnect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__8].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [reconnect_failed] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__9]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [reconnect_failed] On callback [XTS.WSApi.<RegisterSocketEvents>b__9].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [reconnecting] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__10]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [reconnecting] On callback [XTS.WSApi.<RegisterSocketEvents>b__10].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [socketError] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__11]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [socketError] On callback [XTS.WSApi.<RegisterSocketEvents>b__11].
+19-Oct-2023 04:59:15     Warning   Supplied SubscriptionKey [xts-binary-packet] is already registered with previous callback [XTS.WSApi.OnNewBinaryPacketMessage]. Un-Registering with the same.
+19-Oct-2023 04:59:15     Warning   SocketIO Subscribing with [xts-binary-packet] On callback [XTS.WSApi.OnNewBinaryPacketMessage].
+19-Oct-2023 04:59:15     Info      Web Socket Event connect [Details : ]
+19-Oct-2023 04:59:15     Info      Web Socket Event  Joined. [Details : {"type":"success","code":"s-socket-0001","description":"Socket joined successfully! SocketId=SJFAErJ4ZjutZLRKAAPh"}]
+19-Oct-2023 04:59:16     Error     Web Socket Event disconnect [Details : io server disconnect]
+19-Oct-2023 04:59:18     Info      Connecting With User 83066938
+19-Oct-2023 04:59:18     Info      Fetching Access Token From URL [https://ttblaze.iifl.com/apibinarymarketdata/auth/login]
+19-Oct-2023 04:59:18     Info      SecretKey:[Qpvq568@hJ] AppKey:[97496c2f62d0a22253f773]
+19-Oct-2023 04:59:18     Info      Token Fetched.
+19-Oct-2023 04:59:18     Info      Current valid token : [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI4MzA2NjkzOF85NzQ5NmMyZjYyZDBhMjIyNTNmNzczIiwicHVibGljS2V5IjoiOTc0OTZjMmY2MmQwYTIyMjUzZjc3MyIsImlhdCI6MTY5NzcxNDk1OSwiZXhwIjoxNjk3ODAxMzU5fQ.h71y0ow4Xi8hEjXLSRUciUnFEosXB47PuzMDpSYtmOY]
+19-Oct-2023 04:59:18     Info      Connecting Socket.io with token. URL:[https://ttblaze.iifl.com/] Path:[/apibinarymarketdata/socket.io]
+19-Oct-2023 04:59:19     Error     Web Socket Event disconnect [Details : io server disconnect]
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [joined] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__0]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [joined] On callback [XTS.WSApi.<RegisterSocketEvents>b__0].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [connect] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__1]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [connect] On callback [XTS.WSApi.<RegisterSocketEvents>b__1].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [connect_error] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__2]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [connect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__2].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [connect_timeout] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__3]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [connect_timeout] On callback [XTS.WSApi.<RegisterSocketEvents>b__3].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [disconnect] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__4]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [disconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__4].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [error] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__5]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [error] On callback [XTS.WSApi.<RegisterSocketEvents>b__5].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [reconnect] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__6]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [reconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__6].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [reconnect_attempt] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__7]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [reconnect_attempt] On callback [XTS.WSApi.<RegisterSocketEvents>b__7].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [reconnect_error] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__8]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [reconnect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__8].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [reconnect_failed] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__9]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [reconnect_failed] On callback [XTS.WSApi.<RegisterSocketEvents>b__9].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [reconnecting] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__10]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [reconnecting] On callback [XTS.WSApi.<RegisterSocketEvents>b__10].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [socketError] is already registered with previous callback [XTS.WSApi.<RegisterSocketEvents>b__11]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [socketError] On callback [XTS.WSApi.<RegisterSocketEvents>b__11].
+19-Oct-2023 04:59:19     Warning   Supplied SubscriptionKey [xts-binary-packet] is already registered with previous callback [XTS.WSApi.OnNewBinaryPacketMessage]. Un-Registering with the same.
+19-Oct-2023 04:59:19     Warning   SocketIO Subscribing with [xts-binary-packet] On callback [XTS.WSApi.OnNewBinaryPacketMessage].
+19-Oct-2023 04:59:19     Info      Web Socket Event connect [Details : ]
+19-Oct-2023 04:59:19     Info      Web Socket Event  Joined. [Details : {"type":"success","code":"s-socket-0001","description":"Socket joined successfully! SocketId=zKm4vF4wASqoMMdkAAPj"}]
+19-Oct-2023 04:59:20     Info      Web Socket Event reconnect_attempt [Details : 1]
+19-Oct-2023 04:59:20     Info      Web Socket Event connect [Details : 1]
+19-Oct-2023 04:59:20     Info      Web Socket Event reconnect [Details : 1]
+19-Oct-2023 04:59:23     Error     Web Socket Event disconnect [Details : io server disconnect]
+19-Oct-2023 04:59:24     Info      Web Socket Event reconnect_attempt [Details : 1]
+19-Oct-2023 04:59:24     Info      Web Socket Event connect [Details : 1]
+19-Oct-2023 04:59:24     Info      Web Socket Event reconnect [Details : 1]
+19-Oct-2023 04:59:26     Info      Web Socket Event reconnect_attempt [Details : 1]
+19-Oct-2023 04:59:26     Info      Web Socket Event connect [Details : 1]
+19-Oct-2023 04:59:26     Info      Web Socket Event reconnect [Details : 1]

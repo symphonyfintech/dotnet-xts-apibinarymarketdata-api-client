@@ -1,0 +1,140 @@
+23-Aug-2022 11:06:58     Info      Touchline Event Dispatched Thread Initiated.
+23-Aug-2022 11:07:01     Info      Connecting With User SHOBHIRE79
+23-Aug-2022 11:07:01     Info      Fetching Access Token From URL [https://ttblaze.iifl.com/apibinarymarketdata/auth/login]
+23-Aug-2022 11:07:01     Info      SecretKey:[Deej832$Nc] AppKey:[15cb10473a729b424cf932]
+23-Aug-2022 11:07:01     Info      Token Fetched.
+23-Aug-2022 11:07:01     Info      Current valid token : [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJSSVNLVEVTVF8xNWNiMTA0NzNhNzI5YjQyNGNmOTMyIiwicHVibGljS2V5IjoiMTVjYjEwNDczYTcyOWI0MjRjZjkzMiIsImlhdCI6MTY2MTIzMzAyMiwiZXhwIjoxNjYxMzE5NDIyfQ.o7I1ov0yxjau7Y-SVBTNlDC4etiBqCwombNAX0XT1Cc]
+23-Aug-2022 11:07:01     Info      Connecting Socket.io with token. URL:[https://ttblaze.iifl.com/] Path:[/apibinarymarketdata/socket.io]
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [joined] On callback [XTS.WSApi.<RegisterSocketEvents>b__0].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [connect] On callback [XTS.WSApi.<RegisterSocketEvents>b__1].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [connect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__2].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [connect_timeout] On callback [XTS.WSApi.<RegisterSocketEvents>b__3].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [disconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__4].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [error] On callback [XTS.WSApi.<RegisterSocketEvents>b__5].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [reconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__6].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [reconnect_attempt] On callback [XTS.WSApi.<RegisterSocketEvents>b__7].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [reconnect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__8].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [reconnect_failed] On callback [XTS.WSApi.<RegisterSocketEvents>b__9].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [reconnecting] On callback [XTS.WSApi.<RegisterSocketEvents>b__10].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [socketError] On callback [XTS.WSApi.<RegisterSocketEvents>b__11].
+23-Aug-2022 11:07:01     Warning   SocketIO Subscribing with [xts-binary-packet] On callback [XTS.WSApi.OnNewBinaryPacketMessage].
+23-Aug-2022 11:07:02     Info      Web Socket Event connect [Details : ]
+23-Aug-2022 11:07:02     Info      Web Socket Event  Joined. [Details : {"type":"success","code":"s-socket-0001","description":"Socket joined successfully! SocketId=MG2BWSDsBGoildA-AAAN"}]
+23-Aug-2022 11:07:11     Info      {"type":"success","code":"s-session-0001","description":"Instrument subscribed successfully!","result":{"Remaining_Subscription_Count":497}}
+23-Aug-2022 11:07:11     Info      SOCKET.IO     EVENT[Touchline], Buffered[2] => 22,2282.65
+23-Aug-2022 11:07:11     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17423.35
+23-Aug-2022 11:07:11     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38218.4
+23-Aug-2022 11:07:12     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.45
+23-Aug-2022 11:07:12     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17429.85
+23-Aug-2022 11:07:12     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38227.35
+23-Aug-2022 11:07:13     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.85
+23-Aug-2022 11:07:13     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.85
+23-Aug-2022 11:07:13     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17430.35
+23-Aug-2022 11:07:13     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38225
+23-Aug-2022 11:07:14     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.85
+23-Aug-2022 11:07:14     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17430.3
+23-Aug-2022 11:07:14     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38225.95
+23-Aug-2022 11:07:15     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.85
+23-Aug-2022 11:07:15     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17429.85
+23-Aug-2022 11:07:15     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38226.05
+23-Aug-2022 11:07:16     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.85
+23-Aug-2022 11:07:16     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17429.5
+23-Aug-2022 11:07:16     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38223.7
+23-Aug-2022 11:07:17     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.85
+23-Aug-2022 11:07:17     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38222.85
+23-Aug-2022 11:07:18     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.85
+23-Aug-2022 11:07:18     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.55
+23-Aug-2022 11:07:18     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17429.85
+23-Aug-2022 11:07:18     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38215.15
+23-Aug-2022 11:07:19     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.55
+23-Aug-2022 11:07:19     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427.1
+23-Aug-2022 11:07:19     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38210.95
+23-Aug-2022 11:07:20     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.55
+23-Aug-2022 11:07:20     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2284
+23-Aug-2022 11:07:20     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427.15
+23-Aug-2022 11:07:20     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38212.35
+23-Aug-2022 11:07:21     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2284
+23-Aug-2022 11:07:21     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427.4
+23-Aug-2022 11:07:21     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38214.65
+23-Aug-2022 11:07:22     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2284
+23-Aug-2022 11:07:22     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17425.25
+23-Aug-2022 11:07:22     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38210.4
+23-Aug-2022 11:07:23     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2284
+23-Aug-2022 11:07:23     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.85
+23-Aug-2022 11:07:23     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17426.55
+23-Aug-2022 11:07:23     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38211.6
+23-Aug-2022 11:07:24     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.85
+23-Aug-2022 11:07:24     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17426.75
+23-Aug-2022 11:07:24     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38212.3
+23-Aug-2022 11:07:25     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.85
+23-Aug-2022 11:07:25     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17426.3
+23-Aug-2022 11:07:25     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38216.25
+23-Aug-2022 11:07:26     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.9
+23-Aug-2022 11:07:26     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.9
+23-Aug-2022 11:07:26     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17425.9
+23-Aug-2022 11:07:26     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38215.75
+23-Aug-2022 11:07:27     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.9
+23-Aug-2022 11:07:27     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17425.6
+23-Aug-2022 11:07:27     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38217.35
+23-Aug-2022 11:07:28     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.55
+23-Aug-2022 11:07:28     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2284.1
+23-Aug-2022 11:07:28     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427.05
+23-Aug-2022 11:07:28     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38220.1
+23-Aug-2022 11:07:29     Info      SOCKET.IO     EVENT[Touchline], Buffered[2] => 22,2284.1
+23-Aug-2022 11:07:29     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427.1
+23-Aug-2022 11:07:29     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38218.1
+23-Aug-2022 11:07:30     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.3
+23-Aug-2022 11:07:30     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17426.55
+23-Aug-2022 11:07:30     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38216.2
+23-Aug-2022 11:07:31     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.3
+23-Aug-2022 11:07:31     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427.3
+23-Aug-2022 11:07:31     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38217.4
+23-Aug-2022 11:07:32     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.3
+23-Aug-2022 11:07:32     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427.1
+23-Aug-2022 11:07:32     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38217.05
+23-Aug-2022 11:07:32     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2281.8
+23-Aug-2022 11:07:33     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2281.8
+23-Aug-2022 11:07:33     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427.25
+23-Aug-2022 11:07:33     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38219.05
+23-Aug-2022 11:07:34     Info      SOCKET.IO     EVENT[Touchline], Buffered[2] => 22,2281.8
+23-Aug-2022 11:07:34     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427.35
+23-Aug-2022 11:07:34     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38219.6
+23-Aug-2022 11:07:35     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2281.8
+23-Aug-2022 11:07:35     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427.35
+23-Aug-2022 11:07:35     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38216.8
+23-Aug-2022 11:07:36     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2281.8
+23-Aug-2022 11:07:36     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17426.6
+23-Aug-2022 11:07:36     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38218.75
+23-Aug-2022 11:07:37     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2281.8
+23-Aug-2022 11:07:37     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17427
+23-Aug-2022 11:07:37     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38214.9
+23-Aug-2022 11:07:38     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.3
+23-Aug-2022 11:07:38     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17426.95
+23-Aug-2022 11:07:38     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38216.35
+23-Aug-2022 11:07:39     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.3
+23-Aug-2022 11:07:39     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17426
+23-Aug-2022 11:07:39     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38215.6
+23-Aug-2022 11:07:40     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2282.3
+23-Aug-2022 11:07:40     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17425.9
+23-Aug-2022 11:07:40     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38216.05
+23-Aug-2022 11:07:40     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.6
+23-Aug-2022 11:07:41     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.6
+23-Aug-2022 11:07:41     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17426.1
+23-Aug-2022 11:07:41     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38213.55
+23-Aug-2022 11:07:42     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.6
+23-Aug-2022 11:07:42     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17425.85
+23-Aug-2022 11:07:42     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38210.45
+23-Aug-2022 11:07:43     Info      SOCKET.IO     EVENT[Touchline], Buffered[2] => 22,2283.45
+23-Aug-2022 11:07:43     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17425.9
+23-Aug-2022 11:07:43     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38208.25
+23-Aug-2022 11:07:44     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.45
+23-Aug-2022 11:07:44     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38207.75
+23-Aug-2022 11:07:45     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.45
+23-Aug-2022 11:07:45     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17425.3
+23-Aug-2022 11:07:45     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38206.4
+23-Aug-2022 11:07:46     Info      SOCKET.IO     EVENT[Touchline], Buffered[2] => 22,2283.45
+23-Aug-2022 11:07:46     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17425.25
+23-Aug-2022 11:07:46     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38208.55
+23-Aug-2022 11:07:47     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 22,2283.45
+23-Aug-2022 11:07:47     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 26000,17425.4
+23-Aug-2022 11:07:47     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 26001,38208.95

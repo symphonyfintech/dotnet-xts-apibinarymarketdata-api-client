@@ -1,0 +1,27 @@
+19-Oct-2023 06:50:31     Info      Touchline Event Dispatched Thread Initiated.
+19-Oct-2023 06:51:15     Info      Connecting With User SHOBHIRE79
+19-Oct-2023 06:51:15     Info      Fetching Access Token From URL [https://ttblaze.iifl.com/apibinarymarketdata/auth/login]
+19-Oct-2023 06:51:15     Info      SecretKey:[Qpvq568@hJ] AppKey:[97496c2f62d0a22253f773]
+19-Oct-2023 06:51:15     Info      Token Fetched.
+19-Oct-2023 06:51:15     Info      Current valid token : [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI4MzA2NjkzOF85NzQ5NmMyZjYyZDBhMjIyNTNmNzczIiwicHVibGljS2V5IjoiOTc0OTZjMmY2MmQwYTIyMjUzZjc3MyIsImlhdCI6MTY5NzcyMTY3NiwiZXhwIjoxNjk3ODA4MDc2fQ.SfmxgRzWDS5Gv6k0OEBq4ozIS4pA-OtToNBpl5nxVxE]
+19-Oct-2023 06:51:15     Info      Connecting Socket.io with token. URL:[https://ttblaze.iifl.com/] Path:[/apibinarymarketdata/socket.io]
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [joined] On callback [XTS.WSApi.<RegisterSocketEvents>b__0].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [connect] On callback [XTS.WSApi.<RegisterSocketEvents>b__1].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [connect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__2].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [connect_timeout] On callback [XTS.WSApi.<RegisterSocketEvents>b__3].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [disconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__4].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [error] On callback [XTS.WSApi.<RegisterSocketEvents>b__5].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [reconnect] On callback [XTS.WSApi.<RegisterSocketEvents>b__6].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [reconnect_attempt] On callback [XTS.WSApi.<RegisterSocketEvents>b__7].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [reconnect_error] On callback [XTS.WSApi.<RegisterSocketEvents>b__8].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [reconnect_failed] On callback [XTS.WSApi.<RegisterSocketEvents>b__9].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [reconnecting] On callback [XTS.WSApi.<RegisterSocketEvents>b__10].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [socketError] On callback [XTS.WSApi.<RegisterSocketEvents>b__11].
+19-Oct-2023 06:51:15     Warning   SocketIO Subscribing with [xts-binary-packet] On callback [XTS.WSApi.OnNewBinaryPacketMessage].
+19-Oct-2023 06:51:15     Info      Web Socket Event connect [Details : ]
+19-Oct-2023 06:51:15     Info      Web Socket Event  Joined. [Details : {"type":"success","code":"s-socket-0001","description":"Socket joined successfully! SocketId=4qv6DA7U5pHSzhRkAAh0"}]
+19-Oct-2023 06:51:29     Info      {"type":"success","code":"s-session-0001","description":"Instrument subscribed successfully!","result":{"Remaining_Subscription_Count":48}}
+19-Oct-2023 06:51:29     Info      SOCKET.IO     EVENT[Touchline], Buffered[1] => 22,2030.55
+19-Oct-2023 06:51:29     Info      SOCKET.IO     EVENT[Touchline], Buffered[0] => 2885,2306.15
+19-Oct-2023 06:51:55     Info      {"type":"success","code":"s-session-0001","description":"Instrument subscribed successfully!","result":{"Remaining_Subscription_Count":47}}
+19-Oct-2023 06:52:33     Info      {"type":"success","code":"s-session-0001","description":"Instrument subscribed successfully!","result":{"Remaining_Subscription_Count":46}}
